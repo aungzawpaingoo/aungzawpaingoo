@@ -1,9 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungzawpaingoo)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋, Aung Zaw Paing Oo
 #### Self-taught Software Developer
-![Self-taught Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I'm currently a 20 years old university student studying B.Sc(Zoology) & Diploma in Information Technology at Y-MAX University.
 
 Skills: PYTHON DEVELOPMENT / LINUX SYSTEM ADMINISTRATION / DEVOPS  / DOCKER  / KUBERNETES / AWS & AZURE /  HTML 5  / CSS 3 / JAVASCRIPT / SASS / BOOTSTRAP /  REACT /  NODE.JS / MONGODB / EXPRESS.JS / NEXT.JS & GIT
@@ -29,4 +25,3 @@ Skills: PYTHON DEVELOPMENT / LINUX SYSTEM ADMINISTRATION / DEVOPS  / DOCKER  / K
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aungzawpaingoo)  
 
 ![Profile views](https://gpvc.arturio.dev/aungzawpaingoo)  
-
