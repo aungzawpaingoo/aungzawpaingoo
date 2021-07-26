@@ -1,4 +1,4 @@
-###                                                        Hi there 👋, Aung Zaw Paing Oo
+                                                               ### Hi there 👋, Aung Zaw Paing Oo
 #### Self-taught Developer
 I'm currently a 20 years old university student studying B.Sc(Zoology) & Diploma in Information Technology at Y-MAX University.
 - 🔭 I’m currently working on a freelance Real Estate Website Project. 
