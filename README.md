@@ -1,12 +1,10 @@
 ### Hi there 👋, Aung Zaw Paing Oo
 #### Self-taught Developer
 I'm currently a 20 years old university student studying B.Sc(Zoology) & Diploma in Information Technology at Y-MAX University.
-
-Skills: PYTHON DEVELOPMENT / LINUX SYSTEM ADMINISTRATION / DEVOPS  / DOCKER  / KUBERNETES / AWS & AZURE /  HTML 5  / CSS 3 / JAVASCRIPT / SASS / BOOTSTRAP /  REACT /  NODE.JS / MONGODB / EXPRESS.JS / NEXT.JS & GIT
-
 - 🔭 I’m currently working on a freelance Real Estate Website Project. 
 - 🌱 I’m currently learning Python Development and Web Development! 
 
+Skills: PYTHON DEVELOPMENT / LINUX SYSTEM ADMINISTRATION / DEVOPS  / DOCKER  / KUBERNETES / AWS & AZURE /  HTML 5  / CSS 3 / JAVASCRIPT / SASS / BOOTSTRAP /  REACT /  NODE.JS / MONGODB / EXPRESS.JS / NEXT.JS & GIT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aungzawpaingoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/zawpaing)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aung-zaw-ping-oo-3a37531b3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aungzawpaingoo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ZAWPAIN87749212)  
 
