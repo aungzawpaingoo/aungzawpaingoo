@@ -1,5 +1,5 @@
 ### Hi there 👋, Aung Zaw Paing Oo
-#### Self-taught Software Developer
+#### Self-taught Developer
 I'm currently a 20 years old university student studying B.Sc(Zoology) & Diploma in Information Technology at Y-MAX University.
 
 Skills: PYTHON DEVELOPMENT / LINUX SYSTEM ADMINISTRATION / DEVOPS  / DOCKER  / KUBERNETES / AWS & AZURE /  HTML 5  / CSS 3 / JAVASCRIPT / SASS / BOOTSTRAP /  REACT /  NODE.JS / MONGODB / EXPRESS.JS / NEXT.JS & GIT
