@@ -1,8 +1,8 @@
 ### Hi there 👋, Aung Zaw Paing Oo
 #### Self-taught Developer
-I'm currently a 20 years old university student studying B.Sc(Zoology) & Diploma in Information Technology at Y-MAX University.
-- 🔭 I’m currently working on a freelance Real Estate Website Project. 
-- 🌱 I’m currently learning Python Development and Web Development! 
+
+🎓 I’m an Open-Source enthusiast & a junior pursuing my  B.Sc(Zoology) & Diploma in Information and Communication Technology.
+👨‍💻 I am passionate about Web Development, Python Development, Cloud Computing, DevOps & I enjoy learning new things.
 
 
 <h3>Languages and Tools</h3>
