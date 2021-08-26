@@ -7,6 +7,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ZAWPAIN87749212)  
 
 🎓 I’m an Open-Source enthusiast & a junior pursuing my  B.Sc(Zoology) & Diploma in Information and Communication Technology.
+
 👨‍💻 I am passionate about Web Development, Python Development, Cloud Computing, DevOps & I enjoy learning new things.
 
 
