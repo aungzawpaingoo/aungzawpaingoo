@@ -10,15 +10,12 @@ Self-taught Developer
 <a href="https://www.hackerearth.com/@aungzawpaingoonetwork" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aungzawpaingoonetwork" height="30" width="40" /></a>
 </p>
 <br>
-<br>
 <h3 align="left">About me 🚀;</h3>
 <p align="left">
 🎓 I’m an Open-Source enthusiast & a junior pursuing my B.Sc(Zoology) & Diploma in Information and Communication Technology.
 
 👨‍💻 I am passionate about Web Development, Python Development, Cloud Computing, DevOps & I enjoy learning new things.
 </p>
-<br>
-<br>
 <br>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aungzawpaingoo&show_icons=true&locale=en" alt="aungzawpaingoo" /></p>
