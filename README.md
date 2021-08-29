@@ -18,15 +18,8 @@ Self-taught Developer
 
 👨‍💻 I am passionate about Web Development, Python Development, Cloud Computing, DevOps & I enjoy learning new things.
 </p>
-
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aungzawpaingoo&show_icons=true&locale=en&layout=compact" alt="aungzawpaingoo" /></p>
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aungzawpaingoo&show_icons=true&locale=en" alt="aungzawpaingoo" /></p>
