@@ -12,9 +12,7 @@ Self-taught Developer
 <br>
 <h3 align="left">About me 🚀;</h3>
 <p align="left">
-🎓 I’m an Open-Source enthusiast & a junior pursuing my B.Sc(Zoology) & Diploma in Information and Communication Technology.
-
-👨‍💻 I am passionate about Web Development, Python Development, Cloud Computing, DevOps & I enjoy learning new things.
+I'm Aung Zaw Paing Oo < CCNA Certified > and a self-taught passionate FrontEnd developer, currently pursuing NCFE Diploma in Information Technology. I've been building stuff on the web since 2022, I've made countless side projects and I also posses magical powers of using react to build delightful user interfaces.
 </p>
 <br>
 <br>
