@@ -16,4 +16,3 @@ I'm Aung Zaw Paing Oo < CCNA Certified > and a self-taught passionate FrontEnd d
 </p>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aungzawpaingoo&show_icons=true&locale=en" alt="aungzawpaingoo" /></p>
